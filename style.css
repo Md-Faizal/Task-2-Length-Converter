@@ -1,0 +1,57 @@
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .container .select.movement {
+    position: relative;
+    left: 39px;
+    bottom: 32px;
+  }
+  
+  .container p.Options {
+    position: relative;
+    bottom: 66px;
+    left: 130px;
+  }
+  
+  .container select.moves {
+    position: relative;
+    left: 152px;
+    bottom: 100px;
+  }
+  
+  .container #formula {
+    position: relative;
+    bottom: 115px;
+  }
+  
+  .container p.Walk {
+    position: relative;
+    bottom: 125px;
+  }
+  
+  .container input.yah {
+    position: relative;
+    left: 125px;
+    bottom: 196px;
+  }
+  
+  .container input.around {
+    position: relative;
+    bottom: 160px;
+    left: 45px;
+  }
+  
+  .container #toValue {
+    position: relative;
+    bottom: 200px;
+  }
+  
+  body {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+  }
+  
